@@ -1,4 +1,4 @@
-#include "musicpp.hpp"
+#include <musicpp.hpp>
 
 int main(int const argc, char** const argv)
 {
