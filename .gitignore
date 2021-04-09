@@ -1,0 +1,5 @@
+*.raw
+*.wav
+out/
+
+.vscode/
